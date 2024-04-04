@@ -1,1 +1,21 @@
-# nextjs-tutorials
+# Next.js Tutorials:
+
+- [Next.js - Introduction](https://www.rustcodeweb.com/2024/04/nextjs-introduction.html)
+- [Next.js - Environment Setup](https://www.rustcodeweb.com/2024/04/nextjs-environment-setup.html)
+- [Next.js - Pages](https://www.rustcodeweb.com/2024/04/nextjs-pages.html)
+- [Next.js - Static File Serving](https://www.rustcodeweb.com/2024/04/nextjs-static-file-serving.html)
+- [Next.js - Meta Data](https://www.rustcodeweb.com/2024/04/nextjs-meta-data.html)
+- [Next.js - CSS Support](https://www.rustcodeweb.com/2024/04/nextjs-css-support.html)
+- [Next.js - Global CSS Support](https://www.rustcodeweb.com/2024/04/nextjs-global-css-support.html)
+- [Next.js - Pre-Rendering](https://www.rustcodeweb.com/2024/04/nextjs-pre-rendering.html)
+- [Next.js - Routing](https://www.rustcodeweb.com/2024/04/nextjs-routing.html)
+- [Next.js - Dynamic API Routes](https://www.rustcodeweb.com/2024/04/nextjs-dynamic-routing.html)
+- [Next.js - Imperative Routing](https://www.rustcodeweb.com/2024/04/nextjs-imperative-routing.html)
+- [Next.js - Shallow Routing](https://www.rustcodeweb.com/2024/04/nextjs-shallow-routing.html)
+- [Next.js - API Routes](https://www.rustcodeweb.com/2024/04/nextjs-api-routes.html)
+- [Next.js - API Middlewares](https://www.rustcodeweb.com/2024/04/nextjs-api-middlewares.html)
+- [Next.js - Response Helpers](https://www.rustcodeweb.com/2024/04/nextjs-response-helpers.html)
+- [Next.js - TypeScript](https://www.rustcodeweb.com/2024/04/nextjs-typescript-support.html)
+- [Next.js - Environment Variables](https://www.rustcodeweb.com/2024/04/nextjs-environment-variables.html)
+- [Next.js - Deployment](https://www.rustcodeweb.com/2024/04/nextjs-deployment.html)
+- [Next.js - CLI](https://www.rustcodeweb.com/2024/04/nextjs-cli.html)
